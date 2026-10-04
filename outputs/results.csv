@@ -1,0 +1,2 @@
+n_placebo,n_drug,mean_placebo,mean_drug,observed_diff_drug_minus_placebo,n_permutations,null_mean,null_std,p_value_two_sided,alpha,decision
+30,30,4.109243135480911,10.068784047517388,5.959540912036477,10000,-0.010202407511665165,1.2744632037822052,9.999000099990002e-05,0.05,Reject H0
